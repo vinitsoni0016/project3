@@ -1,0 +1,105 @@
+.signup{
+    height: 760px;
+   width: 380px;
+   border: 2px solid black;
+   background-color:#f3f3f3a2;
+   margin-top: 1rem;
+   margin-left: 30%;
+   margin-right: 50%;
+   padding: 10px 0px;
+}
+.signuplogo{
+    height: 150px ;
+  
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;   
+    margin-left: 3rem;
+  
+}
+.logo{
+    background-image: url('instagramlogo.jpg');
+    height: 80px ;
+
+    width: 200px;
+    margin-top: 1rem;
+    margin-left: 3rem;
+  
+}
+.b1{
+   
+    height: 40px;
+    margin-bottom: 1rem;
+  text-align: center;
+    color: rgba(0, 0, 0, 0.668);
+    font-weight:bolder ;
+}
+.sh p{
+   color: #737373;
+    height: 40px;
+    font-weight: bolder ;
+}
+.facebook{
+    background-color: #0095f0 ;
+    border-radius: 8px;
+    padding: 7px 16px;
+    margin-left: 7rem;
+    position: relative;
+
+}
+.facebook:hover{
+    border: 2px solid #0095f0;
+    background-color: white;
+}
+.vin{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.name{
+  
+   margin-top: 1rem;
+ text-align: center;
+   padding-top: 9px;
+   padding-right: 0px;
+   padding-bottom: 7px;
+   padding-left: 8px;
+   border-radius: 5rem;
+
+}
+.b2{
+  color: black;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    
+}
+.s1 {
+   width: 95%;
+   text-align: center;
+    
+}
+.s1 a{
+    color: #0094f0df;
+}
+.up{
+    background-color: #0095f0 ;
+    border-radius: 8px;
+    padding: 7px 16px;
+    margin-left: 9rem;
+   
+    position: relative;
+}
+.up:hover{
+    border: 2px solid #0095f0;
+    background-color: white;
+}
+.b3{
+  color: black;
+text-align: center;
+ 
+}
+.s2 a{
+    color: #0094f0df;
+}
